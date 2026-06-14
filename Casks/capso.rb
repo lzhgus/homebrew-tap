@@ -7,7 +7,7 @@ cask "capso" do
   desc "Open-source screenshot and screen recording for macOS"
   homepage "https://github.com/lzhgus/Capso"
 
-  depends_on macos: ">= :sequoia"
+  depends_on macos: :sequoia
 
   app "Capso.app"
 
