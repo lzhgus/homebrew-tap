@@ -1,6 +1,6 @@
 cask "agent-kanban" do
-  version "0.1.3"
-  sha256 "1690c4dbe714f6880d520612faeeb0bfb0cbd8997c98689ac690b44dd9475fee"
+  version "0.1.4"
+  sha256 "4d1b57ff40554e8debc53f0f3211a30094a08d73cc5396b6e3d2cfcd32e70296"
 
   url "https://github.com/lzhgus/agent-kanban/releases/download/v#{version}/agent-kanban-#{version}.dmg"
   name "Agent Kanban"
